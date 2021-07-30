@@ -1,0 +1,12 @@
+controller\ProjectController.class
+config\StatusEnum.class
+mapper\ProjectMapperImpl.class
+dto\ProjectDto.class
+service\ProjectService.class
+mapper\ProjectMapper.class
+repository\ProjectRepository.class
+service\ProjectServiceImpl.class
+model\Project.class
+com\ul\api\BackendApp.class
+mapper\ProjectEntityConverter.class
+dto\ProjectDto$ProjectDtoBuilder.class
